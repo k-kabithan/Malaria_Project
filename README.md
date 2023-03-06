@@ -24,23 +24,28 @@ As mentioned both data sets had similar columns: Country, Year, Number of cases,
 
 ## Questions to answer
 
-    What questions are you trying to answer with your analysis?
-    Explain how these questions relate to the project's purpose.
+The objectives of this project are to:
+
+    What are the global trends in Malaria cases and mortality?
+    Which countries or WHO regions have the highest burden of Malaria?
+    How has Malaria cases and mortality changed over time?.
+    
+### Explain how these questions relate to the project's purpose.
 
 ## Methodology
 
-    Brief explanation of the methods used to analyze the dataset.
-    Tools and techniques used to clean and preprocess the data.
-    Statistical and visual analysis techniques used to find insights.
+### Brief explanation of the methods used to analyze the dataset.
+### Tools and techniques used to clean and preprocess the data.
+### Statistical and visual analysis techniques used to find insights.
 
 ## Results
 
-    Explanation of the key insights and findings.
-    Visualizations and graphs used to present the results.
-    How the findings answer the questions posed in the project.
+### Explanation of the key insights and findings.
+### Visualizations and graphs used to present the results.
+### How the findings answer the questions posed in the project.
 
 ## Conclusion
 
-    Recap of the project and the insights gained.
-    Significance of the findings and how they contribute to the knowledge of Malaria.
-    Suggestions for future research in this area.
+### Recap of the project and the insights gained.
+### Significance of the findings and how they contribute to the knowledge of Malaria.
+### Suggestions for future research in this area.
