@@ -1,9 +1,5 @@
 # Malaria_Project
 
-Introduction
-
-The datasets were collected by the World Health Organisation (WHO) and subsequently used in this project. This project consisted of 2 datasets that displayed the number of new malaria cases per 1000 population at risk per year and reported cases and fatalities per countries alongside the WHO regions. The dataset was analysed using Python to identify correlations between the number of cases and deaths, and factors such as the region and year.  Despite the rise of cases, the fatalities across 2000-2017 fluctuate this could be due to third world countries struggling to acquire the necessary medicine.
-
 ## Introduction
 
 This project aims to analyse the Malaria datasets collected by the World Health Organisation (WHO) and gain insights into the trends and patterns of Malaria cases across different countries and regions. The analysis revealed that despite the medical advances, the number of cases worldwide keeps increasing due to various factors, including insufficient funding for prevention and control effects, climate change is also believed to contribute to the spread of malaria as higher temperatures are more favourable to mosquitoes. 
